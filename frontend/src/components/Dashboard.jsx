@@ -24,8 +24,26 @@ const Dashboard = () => {
   const fetchTrafficData = async () => {
     try {
       setLoading(true)
-      const response = await axios.get('/api/traffic')
-      setTrafficData(response.data)
+      
+      // Try API first (for local development)
+      // Fallback to static file (for GitHub Pages)
+      try {
+        const response = await axios.get('/api/traffic')
+        setTrafficData(response.data)
+      } catch (apiError) {
+        // If API fails, load from static file (GitHub Pages)
+        const response = await fetch('/Simulated-NBSC-Portal-Traffic/data/simulated_traffic.json')
+        if (!response.ok) {
+          // Fallback for local development
+          const localResponse = await fetch('/data/simulated_traffic.json')
+          const data = await localResponse.json()
+          setTrafficData(data)
+        } else {
+          const data = await response.json()
+          setTrafficData(data)
+        }
+      }
+      
       setError(null)
     } catch (err) {
       setError('Failed to fetch traffic data: ' + err.message)

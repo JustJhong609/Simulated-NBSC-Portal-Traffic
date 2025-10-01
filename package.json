@@ -9,7 +9,8 @@
     "dev:backend": "cd backend && npm run dev",
     "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install",
     "build": "cd frontend && npm run build",
-    "simulate": "cd data-simulator && python generate_traffic.py"
+    "simulate": "cd data-simulator && python generate_traffic.py",
+    "deploy": "cd frontend && npm run deploy"
   },
   "keywords": [
     "geolocation",

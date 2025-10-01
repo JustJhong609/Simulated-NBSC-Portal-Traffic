@@ -4,6 +4,10 @@
 
 A data visualization prototype using BigDataCloud APIs to display simulated visitor traffic for Northern Bukidnon State College (NBSC) online portal, focused on Manolo Fortich, Bukidnon.
 
+## 🌐 Live Demo
+
+**[View Live Dashboard](https://JustJhong609.github.io/Simulated-NBSC-Portal-Traffic/)**
+
 ---
 
 ## 📋 Project Overview
@@ -165,6 +169,26 @@ npm run dev:frontend
 ### Step 6: Access the Dashboard
 - **Frontend**: http://localhost:3000
 - **Backend API**: http://localhost:5000/api/traffic
+
+---
+
+## 🚀 Deployment to GitHub Pages
+
+### Quick Deploy
+```bash
+# Build and deploy to GitHub Pages
+npm run deploy
+```
+
+### Automated Deployment
+Every push to the `main` branch automatically deploys via GitHub Actions.
+
+### Important Notes
+- The live site uses **static data** from `simulated_traffic.json`
+- Backend API is not available on GitHub Pages (static hosting only)
+- For full functionality with live backend, see [DEPLOYMENT.md](DEPLOYMENT.md)
+
+**📖 For detailed deployment instructions, see [DEPLOYMENT.md](DEPLOYMENT.md)**
 
 ---
 

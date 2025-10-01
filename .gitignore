@@ -15,6 +15,7 @@ venv.bak/
 dist/
 build/
 *.egg-info/
+.gh-pages-cache/
 
 # Environment variables
 .env
