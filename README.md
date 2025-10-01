@@ -6,7 +6,10 @@ A data visualization prototype using BigDataCloud APIs to display simulated visi
 
 ## 🌐 Live Demo
 
-**[View Live Dashboard](https://JustJhong609.github.io/Simulated-NBSC-Portal-Traffic/)**
+**Deploy to Vercel (Recommended):** Full-stack deployment with working backend API  
+**Deploy to GitHub Pages:** Frontend only with static data
+
+> **💡 For full functionality including live backend API, deploy to Vercel!**
 
 ---
 
@@ -172,7 +175,35 @@ npm run dev:frontend
 
 ---
 
-## 🚀 Deployment to GitHub Pages
+## 🚀 Deployment Options
+
+### Option 1: Deploy to Vercel (Recommended - Full Stack)
+
+**✨ Best for:** Full functionality with working backend API
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JustJhong609/Simulated-NBSC-Portal-Traffic)
+
+**Quick Steps:**
+1. Click the "Deploy with Vercel" button above
+2. Sign in with GitHub
+3. Configure project:
+   - **Build Command:** `cd frontend && npm install && npm run build`
+   - **Output Directory:** `frontend/dist`
+4. Click "Deploy"
+5. Wait 2-3 minutes - Done! 🎉
+
+**📖 Detailed Guide:** See [VERCEL_DEPLOYMENT.md](VERCEL_DEPLOYMENT.md)
+
+**Features on Vercel:**
+✅ Full-stack deployment (Frontend + Backend)  
+✅ Working API endpoints  
+✅ Automatic HTTPS  
+✅ Auto-deploy on Git push  
+✅ Free tier available  
+
+---
+
+## 🚀 Deployment to GitHub Pages (Static Only)
 
 ### Quick Deploy
 ```bash
