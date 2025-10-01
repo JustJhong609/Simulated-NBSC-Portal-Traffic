@@ -11,6 +11,7 @@ const Dashboard = () => {
   const [error, setError] = useState(null)
   const [timeRange, setTimeRange] = useState('all')
   const [showHeatmap, setShowHeatmap] = useState(true)
+  const [showMarkers, setShowMarkers] = useState(true)
 
   useEffect(() => {
     fetchTrafficData()
@@ -84,7 +85,16 @@ const Dashboard = () => {
       {/* Controls */}
       <div className="bg-white p-4 rounded-lg shadow flex flex-wrap gap-4 items-center justify-between">
         <TimeFilter timeRange={timeRange} setTimeRange={setTimeRange} />
-        <div className="flex items-center gap-2">
+        <div className="flex items-center gap-4">
+          <label className="flex items-center cursor-pointer">
+            <input
+              type="checkbox"
+              checked={showMarkers}
+              onChange={(e) => setShowMarkers(e.target.checked)}
+              className="mr-2 h-4 w-4"
+            />
+            <span className="text-sm font-medium text-gray-700">Show Markers</span>
+          </label>
           <label className="flex items-center cursor-pointer">
             <input
               type="checkbox"
@@ -96,7 +106,7 @@ const Dashboard = () => {
           </label>
           <button
             onClick={fetchTrafficData}
-            className="ml-4 px-4 py-2 bg-nbsc-blue text-white rounded hover:bg-blue-700 transition"
+            className="px-4 py-2 bg-nbsc-blue text-white rounded hover:bg-blue-700 transition"
           >
             Refresh
           </button>
@@ -110,7 +120,7 @@ const Dashboard = () => {
       <div className="bg-white p-4 rounded-lg shadow">
         <h2 className="text-xl font-semibold mb-4 text-gray-800">Traffic Map</h2>
         <div className="map-container">
-          <MapView data={filteredData} showHeatmap={showHeatmap} />
+          <MapView data={filteredData} showHeatmap={showHeatmap} showMarkers={showMarkers} />
         </div>
       </div>
     </div>

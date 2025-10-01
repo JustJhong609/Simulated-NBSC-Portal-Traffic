@@ -11,7 +11,7 @@ L.Icon.Default.mergeOptions({
   shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/images/marker-shadow.png',
 })
 
-const MapView = ({ data, showHeatmap }) => {
+const MapView = ({ data, showHeatmap, showMarkers }) => {
   const mapRef = useRef(null)
   const heatLayerRef = useRef(null)
 
@@ -69,7 +69,7 @@ const MapView = ({ data, showHeatmap }) => {
         url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       />
       
-      {data.map((item, index) => (
+      {showMarkers && data.map((item, index) => (
         <Marker key={index} position={[item.latitude, item.longitude]}>
           <Popup>
             <div className="text-sm">
