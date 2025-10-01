@@ -32,16 +32,16 @@ const Dashboard = () => {
         setTrafficData(response.data)
       } catch (apiError) {
         // If API fails, load from static file (GitHub Pages)
-        const response = await fetch('/Simulated-NBSC-Portal-Traffic/data/simulated_traffic.json')
+        // Vite serves files from /public at the root, so path is relative to base
+        const dataUrl = import.meta.env.BASE_URL + 'data/simulated_traffic.json'
+        const response = await fetch(dataUrl)
+        
         if (!response.ok) {
-          // Fallback for local development
-          const localResponse = await fetch('/data/simulated_traffic.json')
-          const data = await localResponse.json()
-          setTrafficData(data)
-        } else {
-          const data = await response.json()
-          setTrafficData(data)
+          throw new Error(`HTTP error! status: ${response.status}`)
         }
+        
+        const data = await response.json()
+        setTrafficData(data)
       }
       
       setError(null)
