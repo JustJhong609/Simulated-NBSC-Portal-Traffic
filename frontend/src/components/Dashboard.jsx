@@ -25,26 +25,24 @@ const Dashboard = () => {
     try {
       setLoading(true)
       
-      // Try API first (for local development)
-      // Fallback to static file (for GitHub Pages)
+      // Try API first (works on Vercel and local development)
       try {
         const response = await axios.get('/api/traffic')
         setTrafficData(response.data)
+        setError(null)
       } catch (apiError) {
-        // If API fails, load from static file (GitHub Pages)
-        // Vite serves files from /public at the root, so path is relative to base
-        const dataUrl = import.meta.env.BASE_URL + 'data/simulated_traffic.json'
-        const response = await fetch(dataUrl)
+        console.log('API not available, loading from static file...')
+        // Fallback to static file
+        const response = await fetch('/data/simulated_traffic.json')
         
         if (!response.ok) {
-          throw new Error(`HTTP error! status: ${response.status}`)
+          throw new Error(`Failed to load data: ${response.status}`)
         }
         
         const data = await response.json()
         setTrafficData(data)
+        setError(null)
       }
-      
-      setError(null)
     } catch (err) {
       setError('Failed to fetch traffic data: ' + err.message)
       console.error('Error fetching traffic data:', err)
