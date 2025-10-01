@@ -75,6 +75,9 @@ const MapView = ({ data, showHeatmap, showMarkers }) => {
             <div className="text-sm">
               <h3 className="font-bold text-nbsc-blue mb-2">{item.barangay}</h3>
               <p><strong>IP:</strong> {item.ip_address}</p>
+              {item.isp_provider && (
+                <p><strong>ISP:</strong> {item.isp_provider}</p>
+              )}
               <p><strong>Location:</strong> {item.address}</p>
               <p><strong>Coordinates:</strong></p>
               <p className="text-xs">Lat: {item.latitude.toFixed(6)}</p>
