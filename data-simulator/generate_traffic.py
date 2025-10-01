@@ -23,6 +23,23 @@ BARANGAYS = [
     {"name": "Sankanan", "lat": 8.3850, "lng": 124.8650}
 ]
 
+# Philippine ISP Providers
+ISP_PROVIDERS = [
+    'PLDT', 
+    'Globe Telecom', 
+    'Converge ICT', 
+    'Sky Broadband', 
+    'DITO Telecommunity', 
+    'Starlink', 
+    'Eastern Communications', 
+    'RISE', 
+    'Asian Vision', 
+    'Infinivan', 
+    'Air Cable', 
+    'Cablelink', 
+    'Bayan Telecommunications'
+]
+
 def generate_random_ip():
     """Generate a random local IP address"""
     return f"192.168.{random.randint(1, 255)}.{random.randint(1, 255)}"
@@ -49,6 +66,7 @@ def generate_traffic_data(num_records=100, days_back=7):
         
         record = {
             "ip_address": generate_random_ip(),
+            "isp_provider": random.choice(ISP_PROVIDERS),
             "barangay": barangay["name"],
             "latitude": round(lat, 6),
             "longitude": round(lng, 6),

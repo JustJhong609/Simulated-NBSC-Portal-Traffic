@@ -1,1202 +1,1352 @@
 [
   {
-    "ip_address": "192.168.87.171",
-    "barangay": "Poblacion",
-    "latitude": 8.361976,
-    "longitude": 124.866186,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T12:40:45.507931"
+    "ip_address": "192.168.154.158",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Mambatangan",
+    "latitude": 8.376106,
+    "longitude": 124.893669,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-24T13:26:05.966938"
   },
   {
-    "ip_address": "192.168.126.65",
-    "barangay": "Maluko",
-    "latitude": 8.365487,
-    "longitude": 124.860787,
-    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T12:57:48.437843"
-  },
-  {
-    "ip_address": "192.168.140.225",
-    "barangay": "Tankulan",
-    "latitude": 8.377253,
-    "longitude": 124.870306,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T13:52:02.451856"
-  },
-  {
-    "ip_address": "192.168.234.218",
-    "barangay": "Lindaban",
-    "latitude": 8.355402,
-    "longitude": 124.863295,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T14:41:45.517384"
-  },
-  {
-    "ip_address": "192.168.91.100",
+    "ip_address": "192.168.130.171",
+    "isp_provider": "Sky Broadband",
     "barangay": "Dalirig",
-    "latitude": 8.372596,
-    "longitude": 124.87597,
+    "latitude": 8.378714,
+    "longitude": 124.868094,
     "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T14:47:11.666734"
+    "timestamp": "2025-09-24T14:07:44.810355"
   },
   {
-    "ip_address": "192.168.21.143",
-    "barangay": "Mambatangan",
-    "latitude": 8.375551,
-    "longitude": 124.896274,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T15:16:23.680771"
-  },
-  {
-    "ip_address": "192.168.38.170",
-    "barangay": "Mambatangan",
-    "latitude": 8.363351,
-    "longitude": 124.893465,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T15:56:54.170441"
-  },
-  {
-    "ip_address": "192.168.204.181",
-    "barangay": "San Miguel",
-    "latitude": 8.355732,
-    "longitude": 124.8583,
-    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T17:38:28.519108"
-  },
-  {
-    "ip_address": "192.168.47.98",
-    "barangay": "Maluko",
-    "latitude": 8.367101,
-    "longitude": 124.860448,
-    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T17:39:17.558354"
-  },
-  {
-    "ip_address": "192.168.67.205",
-    "barangay": "Poblacion",
-    "latitude": 8.366676,
-    "longitude": 124.865758,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T18:31:21.433007"
-  },
-  {
-    "ip_address": "192.168.90.180",
+    "ip_address": "192.168.200.186",
+    "isp_provider": "Cablelink",
     "barangay": "Sankanan",
-    "latitude": 8.38534,
-    "longitude": 124.868058,
+    "latitude": 8.382263,
+    "longitude": 124.867128,
     "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T19:47:03.570999"
+    "timestamp": "2025-09-24T14:08:49.230348"
   },
   {
-    "ip_address": "192.168.238.67",
-    "barangay": "Lindaban",
-    "latitude": 8.359001,
-    "longitude": 124.857279,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T20:11:23.556959"
-  },
-  {
-    "ip_address": "192.168.59.179",
-    "barangay": "San Miguel",
-    "latitude": 8.355079,
-    "longitude": 124.852705,
-    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T20:52:45.647305"
-  },
-  {
-    "ip_address": "192.168.32.113",
-    "barangay": "Tankulan",
-    "latitude": 8.379516,
-    "longitude": 124.876011,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T21:31:45.982473"
-  },
-  {
-    "ip_address": "192.168.10.230",
-    "barangay": "Tankulan",
-    "latitude": 8.389043,
-    "longitude": 124.876451,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-24T23:40:24.118210"
-  },
-  {
-    "ip_address": "192.168.6.76",
-    "barangay": "Mambatangan",
-    "latitude": 8.360478,
-    "longitude": 124.892506,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T02:37:56.677566"
-  },
-  {
-    "ip_address": "192.168.215.132",
-    "barangay": "Tankulan",
-    "latitude": 8.37796,
-    "longitude": 124.870224,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T04:49:26.327852"
-  },
-  {
-    "ip_address": "192.168.61.24",
+    "ip_address": "192.168.255.39",
+    "isp_provider": "Eastern Communications",
     "barangay": "Maluko",
-    "latitude": 8.367714,
-    "longitude": 124.870488,
+    "latitude": 8.365201,
+    "longitude": 124.875274,
     "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T07:20:47.417868"
+    "timestamp": "2025-09-24T14:56:13.663413"
   },
   {
-    "ip_address": "192.168.27.132",
-    "barangay": "Kalugmanan",
-    "latitude": 8.338213,
-    "longitude": 124.847941,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T07:26:13.377437"
-  },
-  {
-    "ip_address": "192.168.230.197",
-    "barangay": "San Miguel",
-    "latitude": 8.357885,
-    "longitude": 124.85646,
-    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T09:29:46.294245"
-  },
-  {
-    "ip_address": "192.168.136.187",
-    "barangay": "Kalugmanan",
-    "latitude": 8.342216,
-    "longitude": 124.863801,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T12:10:01.303122"
-  },
-  {
-    "ip_address": "192.168.38.195",
-    "barangay": "Maluko",
-    "latitude": 8.36122,
-    "longitude": 124.871322,
-    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T12:38:57.940505"
-  },
-  {
-    "ip_address": "192.168.119.225",
-    "barangay": "San Miguel",
-    "latitude": 8.359104,
-    "longitude": 124.858523,
-    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T12:46:40.832767"
-  },
-  {
-    "ip_address": "192.168.203.24",
-    "barangay": "Dalirig",
-    "latitude": 8.376081,
-    "longitude": 124.865286,
-    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T14:16:15.157684"
-  },
-  {
-    "ip_address": "192.168.28.24",
-    "barangay": "Mambatangan",
-    "latitude": 8.360711,
-    "longitude": 124.892706,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T14:19:33.371161"
-  },
-  {
-    "ip_address": "192.168.208.80",
-    "barangay": "San Miguel",
-    "latitude": 8.349021,
-    "longitude": 124.845893,
-    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T14:39:41.861198"
-  },
-  {
-    "ip_address": "192.168.32.94",
-    "barangay": "Mambatangan",
-    "latitude": 8.371936,
-    "longitude": 124.881724,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T14:59:27.011182"
-  },
-  {
-    "ip_address": "192.168.46.30",
+    "ip_address": "192.168.159.200",
+    "isp_provider": "Starlink",
     "barangay": "Sankanan",
-    "latitude": 8.385546,
-    "longitude": 124.856741,
+    "latitude": 8.38676,
+    "longitude": 124.858028,
     "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T16:30:39.413349"
+    "timestamp": "2025-09-24T16:24:25.142009"
   },
   {
-    "ip_address": "192.168.161.201",
-    "barangay": "Kalugmanan",
-    "latitude": 8.344929,
-    "longitude": 124.852917,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T16:35:54.384524"
+    "ip_address": "192.168.91.38",
+    "isp_provider": "PLDT",
+    "barangay": "Mambatangan",
+    "latitude": 8.363851,
+    "longitude": 124.895691,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-24T16:32:27.321627"
   },
   {
-    "ip_address": "192.168.202.137",
-    "barangay": "Lindaban",
-    "latitude": 8.347855,
-    "longitude": 124.86796,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T17:32:19.020794"
-  },
-  {
-    "ip_address": "192.168.2.198",
-    "barangay": "Lindaban",
-    "latitude": 8.364021,
-    "longitude": 124.862515,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T17:52:04.126423"
-  },
-  {
-    "ip_address": "192.168.77.199",
+    "ip_address": "192.168.46.24",
+    "isp_provider": "Converge ICT",
     "barangay": "San Miguel",
-    "latitude": 8.350255,
-    "longitude": 124.843068,
+    "latitude": 8.356109,
+    "longitude": 124.841861,
     "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T19:23:36.023115"
+    "timestamp": "2025-09-24T16:44:35.158246"
   },
   {
-    "ip_address": "192.168.2.45",
-    "barangay": "Kalugmanan",
-    "latitude": 8.342684,
-    "longitude": 124.855146,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T22:36:11.962786"
-  },
-  {
-    "ip_address": "192.168.194.211",
-    "barangay": "Kalugmanan",
-    "latitude": 8.352401,
-    "longitude": 124.862727,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T22:38:15.412718"
-  },
-  {
-    "ip_address": "192.168.121.152",
-    "barangay": "Dalirig",
-    "latitude": 8.380035,
-    "longitude": 124.866728,
-    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-25T23:13:51.249774"
-  },
-  {
-    "ip_address": "192.168.79.104",
-    "barangay": "Poblacion",
-    "latitude": 8.361654,
-    "longitude": 124.861916,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T00:01:33.727659"
-  },
-  {
-    "ip_address": "192.168.247.196",
+    "ip_address": "192.168.114.106",
+    "isp_provider": "Asian Vision",
     "barangay": "Lindaban",
-    "latitude": 8.345817,
-    "longitude": 124.856864,
+    "latitude": 8.360545,
+    "longitude": 124.862261,
     "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T00:15:39.425315"
+    "timestamp": "2025-09-24T17:46:43.861720"
   },
   {
-    "ip_address": "192.168.155.147",
-    "barangay": "Maluko",
-    "latitude": 8.353486,
-    "longitude": 124.863577,
-    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T01:22:18.927297"
-  },
-  {
-    "ip_address": "192.168.244.209",
-    "barangay": "Dalirig",
-    "latitude": 8.376161,
-    "longitude": 124.865471,
-    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T02:01:31.748759"
-  },
-  {
-    "ip_address": "192.168.201.211",
-    "barangay": "Mambatangan",
-    "latitude": 8.376358,
-    "longitude": 124.890548,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T03:51:38.818963"
-  },
-  {
-    "ip_address": "192.168.12.237",
-    "barangay": "Lindaban",
-    "latitude": 8.346166,
-    "longitude": 124.860844,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T04:00:34.926198"
-  },
-  {
-    "ip_address": "192.168.92.215",
-    "barangay": "Sankanan",
-    "latitude": 8.381663,
-    "longitude": 124.873447,
-    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T05:06:36.926766"
-  },
-  {
-    "ip_address": "192.168.114.22",
-    "barangay": "Lindaban",
-    "latitude": 8.362289,
-    "longitude": 124.850484,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T05:39:28.415162"
-  },
-  {
-    "ip_address": "192.168.151.141",
-    "barangay": "Dahilayan",
-    "latitude": 8.387994,
-    "longitude": 124.903183,
-    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T05:40:03.426827"
-  },
-  {
-    "ip_address": "192.168.223.37",
-    "barangay": "Tankulan",
-    "latitude": 8.389542,
-    "longitude": 124.885701,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T06:20:58.760287"
-  },
-  {
-    "ip_address": "192.168.88.246",
-    "barangay": "San Miguel",
-    "latitude": 8.350975,
-    "longitude": 124.851617,
-    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T09:48:50.771080"
-  },
-  {
-    "ip_address": "192.168.36.151",
-    "barangay": "Dahilayan",
-    "latitude": 8.380907,
-    "longitude": 124.893816,
-    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T10:29:39.852259"
-  },
-  {
-    "ip_address": "192.168.189.154",
-    "barangay": "Mambatangan",
-    "latitude": 8.364063,
-    "longitude": 124.895247,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T13:49:51.618235"
-  },
-  {
-    "ip_address": "192.168.174.168",
-    "barangay": "Lindaban",
-    "latitude": 8.357215,
-    "longitude": 124.850202,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T14:46:23.400670"
-  },
-  {
-    "ip_address": "192.168.151.217",
-    "barangay": "Maluko",
-    "latitude": 8.365711,
-    "longitude": 124.861909,
-    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T15:37:48.183031"
-  },
-  {
-    "ip_address": "192.168.117.184",
-    "barangay": "Kalugmanan",
-    "latitude": 8.343887,
-    "longitude": 124.849726,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T16:44:40.575923"
-  },
-  {
-    "ip_address": "192.168.155.203",
-    "barangay": "Poblacion",
-    "latitude": 8.362026,
-    "longitude": 124.859258,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T17:55:00.991296"
-  },
-  {
-    "ip_address": "192.168.74.172",
-    "barangay": "Dalirig",
-    "latitude": 8.380724,
-    "longitude": 124.876604,
-    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T17:59:36.185172"
-  },
-  {
-    "ip_address": "192.168.244.177",
-    "barangay": "Poblacion",
-    "latitude": 8.371207,
-    "longitude": 124.870294,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T18:40:01.825509"
-  },
-  {
-    "ip_address": "192.168.64.247",
-    "barangay": "Kalugmanan",
-    "latitude": 8.34172,
-    "longitude": 124.861125,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T19:07:02.619644"
-  },
-  {
-    "ip_address": "192.168.142.34",
-    "barangay": "Lindaban",
-    "latitude": 8.349673,
-    "longitude": 124.863387,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T19:55:48.461064"
-  },
-  {
-    "ip_address": "192.168.182.133",
-    "barangay": "Mambatangan",
-    "latitude": 8.371992,
-    "longitude": 124.897659,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T21:30:39.539870"
-  },
-  {
-    "ip_address": "192.168.203.116",
-    "barangay": "Tankulan",
-    "latitude": 8.384468,
-    "longitude": 124.870536,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-26T23:57:50.410431"
-  },
-  {
-    "ip_address": "192.168.42.184",
-    "barangay": "Dalirig",
-    "latitude": 8.366886,
-    "longitude": 124.881552,
-    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T02:02:34.760900"
-  },
-  {
-    "ip_address": "192.168.133.91",
-    "barangay": "Mambatangan",
-    "latitude": 8.362821,
-    "longitude": 124.889346,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T02:31:21.713555"
-  },
-  {
-    "ip_address": "192.168.55.89",
-    "barangay": "Dalirig",
-    "latitude": 8.384298,
-    "longitude": 124.882884,
-    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T04:13:04.602658"
-  },
-  {
-    "ip_address": "192.168.173.121",
-    "barangay": "Dahilayan",
-    "latitude": 8.398783,
-    "longitude": 124.908012,
-    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T07:24:36.028884"
-  },
-  {
-    "ip_address": "192.168.121.127",
-    "barangay": "Dahilayan",
-    "latitude": 8.394248,
-    "longitude": 124.893429,
-    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T08:47:31.284920"
-  },
-  {
-    "ip_address": "192.168.129.134",
-    "barangay": "Kalugmanan",
-    "latitude": 8.351517,
-    "longitude": 124.846086,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T10:24:15.685585"
-  },
-  {
-    "ip_address": "192.168.170.123",
-    "barangay": "Mambatangan",
-    "latitude": 8.370977,
-    "longitude": 124.891767,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T11:24:48.812290"
-  },
-  {
-    "ip_address": "192.168.86.85",
-    "barangay": "Kalugmanan",
-    "latitude": 8.340262,
-    "longitude": 124.849781,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T15:20:13.129275"
-  },
-  {
-    "ip_address": "192.168.87.141",
-    "barangay": "Poblacion",
-    "latitude": 8.368543,
-    "longitude": 124.874916,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T15:53:39.560739"
-  },
-  {
-    "ip_address": "192.168.173.249",
-    "barangay": "Sankanan",
-    "latitude": 8.383622,
-    "longitude": 124.864971,
-    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T17:46:13.477272"
-  },
-  {
-    "ip_address": "192.168.130.106",
-    "barangay": "Tankulan",
-    "latitude": 8.378302,
-    "longitude": 124.879517,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T21:47:58.863802"
-  },
-  {
-    "ip_address": "192.168.10.233",
-    "barangay": "Mambatangan",
-    "latitude": 8.37428,
-    "longitude": 124.89683,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T22:02:14.179251"
-  },
-  {
-    "ip_address": "192.168.237.1",
-    "barangay": "Dahilayan",
-    "latitude": 8.399455,
-    "longitude": 124.891696,
-    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-27T23:36:31.270971"
-  },
-  {
-    "ip_address": "192.168.99.49",
-    "barangay": "Lindaban",
-    "latitude": 8.361302,
-    "longitude": 124.869564,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T00:30:23.943840"
-  },
-  {
-    "ip_address": "192.168.60.164",
-    "barangay": "Sankanan",
-    "latitude": 8.388778,
-    "longitude": 124.87062,
-    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T02:29:31.634987"
-  },
-  {
-    "ip_address": "192.168.231.53",
-    "barangay": "Lindaban",
-    "latitude": 8.348579,
-    "longitude": 124.856308,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T04:18:35.744513"
-  },
-  {
-    "ip_address": "192.168.85.239",
-    "barangay": "Poblacion",
-    "latitude": 8.363193,
-    "longitude": 124.866677,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T04:55:11.967120"
-  },
-  {
-    "ip_address": "192.168.23.204",
-    "barangay": "Tankulan",
-    "latitude": 8.371268,
-    "longitude": 124.884033,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T05:05:23.574733"
-  },
-  {
-    "ip_address": "192.168.250.123",
-    "barangay": "Maluko",
-    "latitude": 8.36281,
-    "longitude": 124.863322,
-    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T08:54:21.106170"
-  },
-  {
-    "ip_address": "192.168.102.77",
-    "barangay": "Dahilayan",
-    "latitude": 8.380588,
-    "longitude": 124.896441,
-    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T09:28:34.967776"
-  },
-  {
-    "ip_address": "192.168.247.159",
-    "barangay": "Tankulan",
-    "latitude": 8.385954,
-    "longitude": 124.880481,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T09:38:20.721096"
-  },
-  {
-    "ip_address": "192.168.104.114",
-    "barangay": "Dalirig",
-    "latitude": 8.365126,
-    "longitude": 124.869828,
-    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T10:06:42.444531"
-  },
-  {
-    "ip_address": "192.168.200.80",
-    "barangay": "Tankulan",
-    "latitude": 8.388102,
-    "longitude": 124.882781,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T12:07:10.967670"
-  },
-  {
-    "ip_address": "192.168.209.244",
-    "barangay": "Kalugmanan",
-    "latitude": 8.354625,
-    "longitude": 124.850894,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T12:53:26.452830"
-  },
-  {
-    "ip_address": "192.168.175.86",
-    "barangay": "Tankulan",
-    "latitude": 8.372254,
-    "longitude": 124.877476,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T13:08:51.432514"
-  },
-  {
-    "ip_address": "192.168.211.218",
-    "barangay": "San Miguel",
-    "latitude": 8.358937,
-    "longitude": 124.848854,
-    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T13:17:53.776002"
-  },
-  {
-    "ip_address": "192.168.43.139",
-    "barangay": "Poblacion",
-    "latitude": 8.370347,
-    "longitude": 124.864931,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T13:50:17.664955"
-  },
-  {
-    "ip_address": "192.168.22.148",
-    "barangay": "Tankulan",
-    "latitude": 8.385935,
-    "longitude": 124.884751,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T15:20:41.202603"
-  },
-  {
-    "ip_address": "192.168.139.208",
+    "ip_address": "192.168.18.23",
+    "isp_provider": "Air Cable",
     "barangay": "Tankulan",
     "latitude": 8.388312,
-    "longitude": 124.888174,
+    "longitude": 124.870281,
     "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T15:34:51.785602"
+    "timestamp": "2025-09-24T18:19:35.881622"
   },
   {
-    "ip_address": "192.168.131.55",
-    "barangay": "Dahilayan",
-    "latitude": 8.396643,
-    "longitude": 124.896723,
-    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T15:42:48.041056"
-  },
-  {
-    "ip_address": "192.168.239.221",
-    "barangay": "Poblacion",
-    "latitude": 8.366123,
-    "longitude": 124.874188,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T17:18:13.104786"
-  },
-  {
-    "ip_address": "192.168.123.86",
+    "ip_address": "192.168.137.2",
+    "isp_provider": "Cablelink",
     "barangay": "Dalirig",
-    "latitude": 8.37255,
-    "longitude": 124.876669,
+    "latitude": 8.367474,
+    "longitude": 124.878267,
     "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T17:30:30.068577"
+    "timestamp": "2025-09-24T18:32:09.344485"
   },
   {
-    "ip_address": "192.168.67.58",
-    "barangay": "Dahilayan",
-    "latitude": 8.397759,
-    "longitude": 124.909278,
-    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T19:57:23.514384"
-  },
-  {
-    "ip_address": "192.168.50.81",
-    "barangay": "Mambatangan",
-    "latitude": 8.372536,
-    "longitude": 124.887208,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T20:43:25.065884"
-  },
-  {
-    "ip_address": "192.168.1.91",
-    "barangay": "Tankulan",
-    "latitude": 8.379186,
-    "longitude": 124.885547,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T20:48:21.637315"
-  },
-  {
-    "ip_address": "192.168.126.139",
-    "barangay": "Mambatangan",
-    "latitude": 8.367732,
-    "longitude": 124.899463,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T21:03:04.210036"
-  },
-  {
-    "ip_address": "192.168.122.227",
-    "barangay": "Dalirig",
-    "latitude": 8.365676,
-    "longitude": 124.872573,
-    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T21:09:33.954548"
-  },
-  {
-    "ip_address": "192.168.3.164",
-    "barangay": "Tankulan",
-    "latitude": 8.370188,
-    "longitude": 124.877953,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T22:42:27.081729"
-  },
-  {
-    "ip_address": "192.168.243.191",
-    "barangay": "San Miguel",
-    "latitude": 8.349504,
-    "longitude": 124.850258,
-    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T23:06:26.277489"
-  },
-  {
-    "ip_address": "192.168.36.170",
-    "barangay": "Poblacion",
-    "latitude": 8.374454,
-    "longitude": 124.857487,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T23:44:01.525413"
-  },
-  {
-    "ip_address": "192.168.54.211",
+    "ip_address": "192.168.14.86",
+    "isp_provider": "RISE",
     "barangay": "Sankanan",
-    "latitude": 8.387209,
-    "longitude": 124.861968,
+    "latitude": 8.380285,
+    "longitude": 124.860063,
     "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-28T23:50:22.555385"
+    "timestamp": "2025-09-24T20:14:56.243427"
   },
   {
-    "ip_address": "192.168.96.122",
+    "ip_address": "192.168.5.248",
+    "isp_provider": "Asian Vision",
+    "barangay": "Poblacion",
+    "latitude": 8.372173,
+    "longitude": 124.873153,
+    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-24T21:09:19.354751"
+  },
+  {
+    "ip_address": "192.168.43.79",
+    "isp_provider": "Eastern Communications",
+    "barangay": "Lindaban",
+    "latitude": 8.363955,
+    "longitude": 124.868831,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-24T21:45:53.481811"
+  },
+  {
+    "ip_address": "192.168.186.46",
+    "isp_provider": "Converge ICT",
+    "barangay": "Mambatangan",
+    "latitude": 8.361549,
+    "longitude": 124.896805,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-24T22:20:26.708173"
+  },
+  {
+    "ip_address": "192.168.105.5",
+    "isp_provider": "Sky Broadband",
+    "barangay": "Dahilayan",
+    "latitude": 8.395358,
+    "longitude": 124.909189,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-24T22:27:20.564831"
+  },
+  {
+    "ip_address": "192.168.28.125",
+    "isp_provider": "Infinivan",
+    "barangay": "Dalirig",
+    "latitude": 8.365414,
+    "longitude": 124.86703,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-24T23:39:06.590388"
+  },
+  {
+    "ip_address": "192.168.50.186",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Tankulan",
+    "latitude": 8.385736,
+    "longitude": 124.875999,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-24T23:43:16.722840"
+  },
+  {
+    "ip_address": "192.168.109.234",
+    "isp_provider": "Asian Vision",
+    "barangay": "Lindaban",
+    "latitude": 8.355972,
+    "longitude": 124.858723,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-25T01:43:04.515553"
+  },
+  {
+    "ip_address": "192.168.115.109",
+    "isp_provider": "Sky Broadband",
+    "barangay": "Tankulan",
+    "latitude": 8.370759,
+    "longitude": 124.882374,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-25T03:39:02.829845"
+  },
+  {
+    "ip_address": "192.168.106.208",
+    "isp_provider": "DITO Telecommunity",
+    "barangay": "Dahilayan",
+    "latitude": 8.38144,
+    "longitude": 124.896339,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-25T06:18:48.254711"
+  },
+  {
+    "ip_address": "192.168.238.82",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Mambatangan",
+    "latitude": 8.375088,
+    "longitude": 124.8947,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-25T06:27:00.811816"
+  },
+  {
+    "ip_address": "192.168.169.61",
+    "isp_provider": "Infinivan",
     "barangay": "Maluko",
-    "latitude": 8.350524,
-    "longitude": 124.87769,
+    "latitude": 8.3665,
+    "longitude": 124.865032,
     "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T05:05:05.630760"
+    "timestamp": "2025-09-25T07:38:28.866755"
   },
   {
-    "ip_address": "192.168.98.9",
-    "barangay": "San Miguel",
-    "latitude": 8.359378,
-    "longitude": 124.840035,
-    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T06:05:40.844882"
-  },
-  {
-    "ip_address": "192.168.58.137",
-    "barangay": "Mambatangan",
-    "latitude": 8.373594,
-    "longitude": 124.880895,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T07:05:49.290350"
-  },
-  {
-    "ip_address": "192.168.15.37",
+    "ip_address": "192.168.153.57",
+    "isp_provider": "Sky Broadband",
     "barangay": "Sankanan",
-    "latitude": 8.391387,
-    "longitude": 124.874033,
+    "latitude": 8.379704,
+    "longitude": 124.860656,
     "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T07:52:29.054370"
+    "timestamp": "2025-09-25T14:37:12.995615"
   },
   {
-    "ip_address": "192.168.206.29",
-    "barangay": "San Miguel",
-    "latitude": 8.358499,
-    "longitude": 124.859553,
-    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T09:13:22.849979"
-  },
-  {
-    "ip_address": "192.168.24.109",
-    "barangay": "Dahilayan",
-    "latitude": 8.394015,
-    "longitude": 124.907142,
-    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T10:13:07.775369"
-  },
-  {
-    "ip_address": "192.168.45.92",
+    "ip_address": "192.168.12.47",
+    "isp_provider": "Asian Vision",
     "barangay": "Maluko",
-    "latitude": 8.356742,
-    "longitude": 124.872495,
+    "latitude": 8.364482,
+    "longitude": 124.878001,
     "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T12:00:55.595734"
+    "timestamp": "2025-09-25T14:40:59.610000"
   },
   {
-    "ip_address": "192.168.199.202",
+    "ip_address": "192.168.236.67",
+    "isp_provider": "DITO Telecommunity",
     "barangay": "Sankanan",
-    "latitude": 8.383898,
-    "longitude": 124.858654,
+    "latitude": 8.385865,
+    "longitude": 124.872772,
     "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T14:36:44.222996"
+    "timestamp": "2025-09-25T16:35:51.538556"
   },
   {
-    "ip_address": "192.168.113.233",
-    "barangay": "Kalugmanan",
-    "latitude": 8.338255,
-    "longitude": 124.855972,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T16:01:56.777315"
-  },
-  {
-    "ip_address": "192.168.137.185",
-    "barangay": "Dalirig",
-    "latitude": 8.384325,
-    "longitude": 124.874985,
-    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T16:40:50.405870"
-  },
-  {
-    "ip_address": "192.168.92.14",
-    "barangay": "Dalirig",
-    "latitude": 8.379372,
-    "longitude": 124.874925,
-    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T20:13:23.403801"
-  },
-  {
-    "ip_address": "192.168.49.181",
-    "barangay": "Kalugmanan",
-    "latitude": 8.340196,
-    "longitude": 124.858672,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T22:37:45.388186"
-  },
-  {
-    "ip_address": "192.168.98.90",
+    "ip_address": "192.168.162.160",
+    "isp_provider": "Asian Vision",
     "barangay": "Sankanan",
-    "latitude": 8.38749,
-    "longitude": 124.874753,
+    "latitude": 8.385239,
+    "longitude": 124.868411,
     "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T22:43:40.625545"
+    "timestamp": "2025-09-25T18:40:03.422102"
   },
   {
-    "ip_address": "192.168.155.20",
-    "barangay": "Tankulan",
-    "latitude": 8.382188,
-    "longitude": 124.88154,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-29T23:02:48.455261"
-  },
-  {
-    "ip_address": "192.168.151.2",
-    "barangay": "Poblacion",
-    "latitude": 8.371317,
-    "longitude": 124.865331,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T01:53:35.776127"
-  },
-  {
-    "ip_address": "192.168.48.251",
-    "barangay": "Kalugmanan",
-    "latitude": 8.343892,
-    "longitude": 124.864162,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T05:39:56.388809"
-  },
-  {
-    "ip_address": "192.168.244.107",
-    "barangay": "Lindaban",
-    "latitude": 8.356409,
-    "longitude": 124.855183,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T08:48:23.346172"
-  },
-  {
-    "ip_address": "192.168.166.24",
-    "barangay": "Kalugmanan",
-    "latitude": 8.345618,
-    "longitude": 124.845931,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T09:26:38.740181"
-  },
-  {
-    "ip_address": "192.168.144.62",
+    "ip_address": "192.168.224.42",
+    "isp_provider": "Eastern Communications",
     "barangay": "San Miguel",
-    "latitude": 8.34159,
-    "longitude": 124.855062,
+    "latitude": 8.355153,
+    "longitude": 124.851673,
     "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T10:35:46.071420"
+    "timestamp": "2025-09-25T18:45:10.831301"
   },
   {
-    "ip_address": "192.168.15.39",
-    "barangay": "Sankanan",
-    "latitude": 8.392643,
-    "longitude": 124.856255,
-    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T10:55:50.469413"
-  },
-  {
-    "ip_address": "192.168.79.43",
+    "ip_address": "192.168.50.128",
+    "isp_provider": "Cablelink",
     "barangay": "Kalugmanan",
-    "latitude": 8.341277,
-    "longitude": 124.855611,
+    "latitude": 8.342023,
+    "longitude": 124.859597,
     "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T12:17:03.416178"
+    "timestamp": "2025-09-25T19:18:12.198467"
   },
   {
-    "ip_address": "192.168.133.158",
-    "barangay": "Kalugmanan",
-    "latitude": 8.347863,
-    "longitude": 124.850459,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T13:32:43.727832"
-  },
-  {
-    "ip_address": "192.168.247.206",
-    "barangay": "Lindaban",
-    "latitude": 8.364747,
-    "longitude": 124.85842,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T14:15:17.462859"
-  },
-  {
-    "ip_address": "192.168.109.177",
-    "barangay": "Mambatangan",
-    "latitude": 8.374146,
-    "longitude": 124.887217,
-    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T15:34:23.676366"
-  },
-  {
-    "ip_address": "192.168.25.151",
-    "barangay": "Poblacion",
-    "latitude": 8.361739,
-    "longitude": 124.866063,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T17:20:00.000776"
-  },
-  {
-    "ip_address": "192.168.54.75",
-    "barangay": "Poblacion",
-    "latitude": 8.363058,
-    "longitude": 124.857653,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T17:33:41.606513"
-  },
-  {
-    "ip_address": "192.168.125.83",
-    "barangay": "Poblacion",
-    "latitude": 8.357794,
-    "longitude": 124.876113,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T17:37:32.770142"
-  },
-  {
-    "ip_address": "192.168.58.211",
+    "ip_address": "192.168.10.207",
+    "isp_provider": "Asian Vision",
     "barangay": "Dahilayan",
-    "latitude": 8.399356,
-    "longitude": 124.900856,
+    "latitude": 8.398116,
+    "longitude": 124.90036,
     "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T19:55:33.281157"
+    "timestamp": "2025-09-25T19:40:33.665773"
   },
   {
-    "ip_address": "192.168.87.81",
-    "barangay": "Tankulan",
-    "latitude": 8.386391,
-    "longitude": 124.888116,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T19:56:59.886100"
-  },
-  {
-    "ip_address": "192.168.178.140",
-    "barangay": "Poblacion",
-    "latitude": 8.360176,
-    "longitude": 124.861649,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T20:05:15.041202"
-  },
-  {
-    "ip_address": "192.168.83.241",
-    "barangay": "Dahilayan",
-    "latitude": 8.396585,
-    "longitude": 124.897509,
-    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T20:18:01.762886"
-  },
-  {
-    "ip_address": "192.168.17.3",
-    "barangay": "Dahilayan",
-    "latitude": 8.397217,
-    "longitude": 124.904309,
-    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T20:29:37.768477"
-  },
-  {
-    "ip_address": "192.168.224.103",
-    "barangay": "Lindaban",
-    "latitude": 8.357709,
-    "longitude": 124.852713,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T21:25:13.495471"
-  },
-  {
-    "ip_address": "192.168.30.75",
-    "barangay": "Tankulan",
-    "latitude": 8.387884,
-    "longitude": 124.87193,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T22:15:53.553655"
-  },
-  {
-    "ip_address": "192.168.127.26",
-    "barangay": "Maluko",
-    "latitude": 8.362252,
-    "longitude": 124.873227,
-    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-09-30T22:39:34.413987"
-  },
-  {
-    "ip_address": "192.168.143.60",
-    "barangay": "Sankanan",
-    "latitude": 8.379425,
-    "longitude": 124.867713,
-    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T00:28:04.012103"
-  },
-  {
-    "ip_address": "192.168.211.107",
-    "barangay": "Poblacion",
-    "latitude": 8.370544,
-    "longitude": 124.87248,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T00:40:14.995726"
-  },
-  {
-    "ip_address": "192.168.29.180",
+    "ip_address": "192.168.45.191",
+    "isp_provider": "Eastern Communications",
     "barangay": "San Miguel",
-    "latitude": 8.349698,
-    "longitude": 124.858799,
+    "latitude": 8.352024,
+    "longitude": 124.844521,
     "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T00:58:41.649611"
+    "timestamp": "2025-09-25T21:22:04.654819"
   },
   {
-    "ip_address": "192.168.61.225",
-    "barangay": "Dahilayan",
-    "latitude": 8.388558,
-    "longitude": 124.896627,
-    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T01:20:18.402333"
+    "ip_address": "192.168.201.78",
+    "isp_provider": "Asian Vision",
+    "barangay": "San Miguel",
+    "latitude": 8.358542,
+    "longitude": 124.850158,
+    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-25T21:27:36.179374"
   },
   {
-    "ip_address": "192.168.188.89",
-    "barangay": "Sankanan",
-    "latitude": 8.388952,
-    "longitude": 124.864609,
-    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T01:59:37.257029"
+    "ip_address": "192.168.210.251",
+    "isp_provider": "Sky Broadband",
+    "barangay": "Lindaban",
+    "latitude": 8.354454,
+    "longitude": 124.863596,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-25T22:42:01.957263"
   },
   {
-    "ip_address": "192.168.127.69",
+    "ip_address": "192.168.105.92",
+    "isp_provider": "PLDT",
+    "barangay": "Poblacion",
+    "latitude": 8.373066,
+    "longitude": 124.8749,
+    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-25T22:53:42.953923"
+  },
+  {
+    "ip_address": "192.168.63.138",
+    "isp_provider": "RISE",
     "barangay": "Mambatangan",
-    "latitude": 8.372067,
-    "longitude": 124.894191,
+    "latitude": 8.368085,
+    "longitude": 124.89328,
     "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T02:04:00.162540"
+    "timestamp": "2025-09-26T01:34:16.812878"
   },
   {
-    "ip_address": "192.168.93.229",
-    "barangay": "Poblacion",
-    "latitude": 8.374124,
-    "longitude": 124.863057,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T02:04:52.257511"
-  },
-  {
-    "ip_address": "192.168.118.146",
-    "barangay": "Maluko",
-    "latitude": 8.360614,
-    "longitude": 124.865544,
-    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T02:13:52.254425"
-  },
-  {
-    "ip_address": "192.168.130.153",
-    "barangay": "Sankanan",
-    "latitude": 8.379757,
-    "longitude": 124.870209,
-    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T03:07:25.077799"
-  },
-  {
-    "ip_address": "192.168.75.233",
-    "barangay": "Tankulan",
-    "latitude": 8.385851,
-    "longitude": 124.877437,
-    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T04:35:39.044573"
-  },
-  {
-    "ip_address": "192.168.82.141",
-    "barangay": "Lindaban",
-    "latitude": 8.360739,
-    "longitude": 124.853055,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T05:02:30.978408"
-  },
-  {
-    "ip_address": "192.168.45.100",
-    "barangay": "Poblacion",
-    "latitude": 8.364907,
-    "longitude": 124.862427,
-    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T05:49:56.894607"
-  },
-  {
-    "ip_address": "192.168.237.121",
-    "barangay": "Lindaban",
-    "latitude": 8.362956,
-    "longitude": 124.852081,
-    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T05:50:21.077734"
-  },
-  {
-    "ip_address": "192.168.61.127",
-    "barangay": "Kalugmanan",
-    "latitude": 8.352938,
-    "longitude": 124.846226,
-    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T06:24:57.632848"
-  },
-  {
-    "ip_address": "192.168.208.142",
-    "barangay": "Sankanan",
-    "latitude": 8.375793,
-    "longitude": 124.874522,
-    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T07:05:31.629141"
-  },
-  {
-    "ip_address": "192.168.82.138",
+    "ip_address": "192.168.80.237",
+    "isp_provider": "DITO Telecommunity",
     "barangay": "Dalirig",
-    "latitude": 8.379618,
-    "longitude": 124.871506,
+    "latitude": 8.366976,
+    "longitude": 124.869408,
     "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
-    "timestamp": "2025-10-01T10:00:37.394788"
+    "timestamp": "2025-09-26T02:41:19.365144"
+  },
+  {
+    "ip_address": "192.168.88.32",
+    "isp_provider": "DITO Telecommunity",
+    "barangay": "Dahilayan",
+    "latitude": 8.389008,
+    "longitude": 124.906641,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T03:16:07.330526"
+  },
+  {
+    "ip_address": "192.168.156.70",
+    "isp_provider": "Infinivan",
+    "barangay": "Poblacion",
+    "latitude": 8.361523,
+    "longitude": 124.865272,
+    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T05:35:10.470361"
+  },
+  {
+    "ip_address": "192.168.62.243",
+    "isp_provider": "RISE",
+    "barangay": "Maluko",
+    "latitude": 8.356056,
+    "longitude": 124.866382,
+    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T06:54:39.030833"
+  },
+  {
+    "ip_address": "192.168.150.113",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Sankanan",
+    "latitude": 8.381837,
+    "longitude": 124.864508,
+    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T08:53:09.675181"
+  },
+  {
+    "ip_address": "192.168.249.90",
+    "isp_provider": "Cablelink",
+    "barangay": "Dalirig",
+    "latitude": 8.380471,
+    "longitude": 124.884824,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T09:07:19.336467"
+  },
+  {
+    "ip_address": "192.168.169.186",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Dalirig",
+    "latitude": 8.367147,
+    "longitude": 124.873567,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T09:27:22.044684"
+  },
+  {
+    "ip_address": "192.168.143.30",
+    "isp_provider": "Converge ICT",
+    "barangay": "Kalugmanan",
+    "latitude": 8.342655,
+    "longitude": 124.860482,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T09:29:01.705143"
+  },
+  {
+    "ip_address": "192.168.248.72",
+    "isp_provider": "Converge ICT",
+    "barangay": "Kalugmanan",
+    "latitude": 8.33875,
+    "longitude": 124.854475,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T10:11:38.720624"
+  },
+  {
+    "ip_address": "192.168.245.19",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Kalugmanan",
+    "latitude": 8.339926,
+    "longitude": 124.86016,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T10:48:05.726727"
+  },
+  {
+    "ip_address": "192.168.255.159",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Dalirig",
+    "latitude": 8.375984,
+    "longitude": 124.882664,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T11:19:50.761875"
+  },
+  {
+    "ip_address": "192.168.77.173",
+    "isp_provider": "Converge ICT",
+    "barangay": "Mambatangan",
+    "latitude": 8.371769,
+    "longitude": 124.881669,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T14:53:15.655324"
+  },
+  {
+    "ip_address": "192.168.92.6",
+    "isp_provider": "PLDT",
+    "barangay": "Dalirig",
+    "latitude": 8.367575,
+    "longitude": 124.879733,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T15:15:37.120790"
+  },
+  {
+    "ip_address": "192.168.199.139",
+    "isp_provider": "Globe Telecom",
+    "barangay": "Tankulan",
+    "latitude": 8.383786,
+    "longitude": 124.887144,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T15:16:47.779361"
+  },
+  {
+    "ip_address": "192.168.149.158",
+    "isp_provider": "Asian Vision",
+    "barangay": "Kalugmanan",
+    "latitude": 8.344993,
+    "longitude": 124.85843,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T15:45:33.100422"
+  },
+  {
+    "ip_address": "192.168.17.94",
+    "isp_provider": "Eastern Communications",
+    "barangay": "Sankanan",
+    "latitude": 8.388619,
+    "longitude": 124.873448,
+    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T17:29:52.905839"
+  },
+  {
+    "ip_address": "192.168.140.4",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Lindaban",
+    "latitude": 8.358214,
+    "longitude": 124.864016,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T19:37:52.992435"
+  },
+  {
+    "ip_address": "192.168.152.195",
+    "isp_provider": "Air Cable",
+    "barangay": "Lindaban",
+    "latitude": 8.357018,
+    "longitude": 124.869136,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T19:54:46.145359"
+  },
+  {
+    "ip_address": "192.168.194.158",
+    "isp_provider": "Globe Telecom",
+    "barangay": "Tankulan",
+    "latitude": 8.38736,
+    "longitude": 124.878718,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T22:55:06.060946"
+  },
+  {
+    "ip_address": "192.168.35.105",
+    "isp_provider": "Infinivan",
+    "barangay": "Kalugmanan",
+    "latitude": 8.342663,
+    "longitude": 124.846072,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T23:23:38.116192"
+  },
+  {
+    "ip_address": "192.168.43.216",
+    "isp_provider": "Cablelink",
+    "barangay": "Maluko",
+    "latitude": 8.353123,
+    "longitude": 124.868412,
+    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-26T23:30:02.258781"
+  },
+  {
+    "ip_address": "192.168.79.26",
+    "isp_provider": "DITO Telecommunity",
+    "barangay": "Poblacion",
+    "latitude": 8.357951,
+    "longitude": 124.869896,
+    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T00:52:07.403373"
+  },
+  {
+    "ip_address": "192.168.111.25",
+    "isp_provider": "Cablelink",
+    "barangay": "Dahilayan",
+    "latitude": 8.381157,
+    "longitude": 124.89159,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T03:28:04.477138"
+  },
+  {
+    "ip_address": "192.168.184.228",
+    "isp_provider": "Globe Telecom",
+    "barangay": "Mambatangan",
+    "latitude": 8.363801,
+    "longitude": 124.899737,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T04:35:40.013712"
+  },
+  {
+    "ip_address": "192.168.255.80",
+    "isp_provider": "Cablelink",
+    "barangay": "Poblacion",
+    "latitude": 8.3578,
+    "longitude": 124.867922,
+    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T04:36:27.193463"
+  },
+  {
+    "ip_address": "192.168.43.210",
+    "isp_provider": "Cablelink",
+    "barangay": "Kalugmanan",
+    "latitude": 8.344404,
+    "longitude": 124.85863,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T05:06:45.192507"
+  },
+  {
+    "ip_address": "192.168.250.44",
+    "isp_provider": "Starlink",
+    "barangay": "Mambatangan",
+    "latitude": 8.366447,
+    "longitude": 124.885458,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T05:21:50.992941"
+  },
+  {
+    "ip_address": "192.168.104.128",
+    "isp_provider": "Cablelink",
+    "barangay": "Sankanan",
+    "latitude": 8.386518,
+    "longitude": 124.865589,
+    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T05:35:26.391877"
+  },
+  {
+    "ip_address": "192.168.76.169",
+    "isp_provider": "RISE",
+    "barangay": "Maluko",
+    "latitude": 8.365267,
+    "longitude": 124.866655,
+    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T05:50:30.712122"
+  },
+  {
+    "ip_address": "192.168.66.63",
+    "isp_provider": "Globe Telecom",
+    "barangay": "Tankulan",
+    "latitude": 8.375549,
+    "longitude": 124.887331,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T06:30:46.266774"
+  },
+  {
+    "ip_address": "192.168.16.104",
+    "isp_provider": "Air Cable",
+    "barangay": "Mambatangan",
+    "latitude": 8.368611,
+    "longitude": 124.884961,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T07:18:07.209368"
+  },
+  {
+    "ip_address": "192.168.35.11",
+    "isp_provider": "RISE",
+    "barangay": "Tankulan",
+    "latitude": 8.373979,
+    "longitude": 124.871087,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T11:46:21.507081"
+  },
+  {
+    "ip_address": "192.168.11.237",
+    "isp_provider": "Asian Vision",
+    "barangay": "Dahilayan",
+    "latitude": 8.389235,
+    "longitude": 124.894677,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T12:14:17.358533"
+  },
+  {
+    "ip_address": "192.168.97.175",
+    "isp_provider": "Infinivan",
+    "barangay": "Tankulan",
+    "latitude": 8.382017,
+    "longitude": 124.880813,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T14:04:12.891451"
+  },
+  {
+    "ip_address": "192.168.95.50",
+    "isp_provider": "Converge ICT",
+    "barangay": "Dahilayan",
+    "latitude": 8.397308,
+    "longitude": 124.906288,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T15:41:53.240188"
+  },
+  {
+    "ip_address": "192.168.177.99",
+    "isp_provider": "DITO Telecommunity",
+    "barangay": "Sankanan",
+    "latitude": 8.394833,
+    "longitude": 124.858393,
+    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T15:55:22.272387"
+  },
+  {
+    "ip_address": "192.168.12.238",
+    "isp_provider": "Cablelink",
+    "barangay": "Mambatangan",
+    "latitude": 8.366439,
+    "longitude": 124.896103,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T16:36:29.806547"
+  },
+  {
+    "ip_address": "192.168.96.175",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Dalirig",
+    "latitude": 8.367034,
+    "longitude": 124.868411,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T16:56:34.978746"
+  },
+  {
+    "ip_address": "192.168.120.211",
+    "isp_provider": "PLDT",
+    "barangay": "Maluko",
+    "latitude": 8.351929,
+    "longitude": 124.876131,
+    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T18:00:22.672130"
+  },
+  {
+    "ip_address": "192.168.61.130",
+    "isp_provider": "Asian Vision",
+    "barangay": "Tankulan",
+    "latitude": 8.380516,
+    "longitude": 124.877083,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T19:23:55.275634"
+  },
+  {
+    "ip_address": "192.168.232.221",
+    "isp_provider": "Air Cable",
+    "barangay": "Lindaban",
+    "latitude": 8.34996,
+    "longitude": 124.860487,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T20:43:56.454310"
+  },
+  {
+    "ip_address": "192.168.176.117",
+    "isp_provider": "Cablelink",
+    "barangay": "Kalugmanan",
+    "latitude": 8.353251,
+    "longitude": 124.861684,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T21:35:09.762945"
+  },
+  {
+    "ip_address": "192.168.48.162",
+    "isp_provider": "PLDT",
+    "barangay": "Dalirig",
+    "latitude": 8.380613,
+    "longitude": 124.883272,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T22:17:10.108076"
+  },
+  {
+    "ip_address": "192.168.79.113",
+    "isp_provider": "Eastern Communications",
+    "barangay": "Tankulan",
+    "latitude": 8.386842,
+    "longitude": 124.878131,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T22:28:26.360017"
+  },
+  {
+    "ip_address": "192.168.236.108",
+    "isp_provider": "Asian Vision",
+    "barangay": "Tankulan",
+    "latitude": 8.38876,
+    "longitude": 124.883369,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-27T23:19:11.395925"
+  },
+  {
+    "ip_address": "192.168.36.192",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Dahilayan",
+    "latitude": 8.393325,
+    "longitude": 124.90803,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T01:21:53.780595"
+  },
+  {
+    "ip_address": "192.168.84.144",
+    "isp_provider": "Globe Telecom",
+    "barangay": "Kalugmanan",
+    "latitude": 8.348693,
+    "longitude": 124.852083,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T02:35:40.426198"
+  },
+  {
+    "ip_address": "192.168.101.59",
+    "isp_provider": "RISE",
+    "barangay": "Lindaban",
+    "latitude": 8.357369,
+    "longitude": 124.863875,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T04:13:12.928407"
+  },
+  {
+    "ip_address": "192.168.77.198",
+    "isp_provider": "Eastern Communications",
+    "barangay": "Maluko",
+    "latitude": 8.355831,
+    "longitude": 124.86106,
+    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T04:46:02.345587"
+  },
+  {
+    "ip_address": "192.168.126.152",
+    "isp_provider": "Infinivan",
+    "barangay": "Maluko",
+    "latitude": 8.351425,
+    "longitude": 124.870484,
+    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T05:49:46.176828"
+  },
+  {
+    "ip_address": "192.168.113.203",
+    "isp_provider": "Cablelink",
+    "barangay": "San Miguel",
+    "latitude": 8.350225,
+    "longitude": 124.841358,
+    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T05:58:45.923007"
+  },
+  {
+    "ip_address": "192.168.1.80",
+    "isp_provider": "PLDT",
+    "barangay": "Mambatangan",
+    "latitude": 8.362874,
+    "longitude": 124.886347,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T06:27:02.745976"
+  },
+  {
+    "ip_address": "192.168.46.45",
+    "isp_provider": "Cablelink",
+    "barangay": "Maluko",
+    "latitude": 8.365091,
+    "longitude": 124.871171,
+    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T06:35:29.832007"
+  },
+  {
+    "ip_address": "192.168.174.170",
+    "isp_provider": "Infinivan",
+    "barangay": "Poblacion",
+    "latitude": 8.359519,
+    "longitude": 124.871138,
+    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T07:04:49.517212"
+  },
+  {
+    "ip_address": "192.168.113.69",
+    "isp_provider": "Sky Broadband",
+    "barangay": "Kalugmanan",
+    "latitude": 8.343693,
+    "longitude": 124.858927,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T07:35:11.907148"
+  },
+  {
+    "ip_address": "192.168.176.169",
+    "isp_provider": "Converge ICT",
+    "barangay": "Mambatangan",
+    "latitude": 8.376609,
+    "longitude": 124.891831,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T08:20:30.278254"
+  },
+  {
+    "ip_address": "192.168.138.176",
+    "isp_provider": "Cablelink",
+    "barangay": "Kalugmanan",
+    "latitude": 8.340243,
+    "longitude": 124.852398,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T11:12:02.271699"
+  },
+  {
+    "ip_address": "192.168.244.34",
+    "isp_provider": "Air Cable",
+    "barangay": "Poblacion",
+    "latitude": 8.361759,
+    "longitude": 124.870099,
+    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T11:49:27.489331"
+  },
+  {
+    "ip_address": "192.168.49.5",
+    "isp_provider": "Infinivan",
+    "barangay": "Dalirig",
+    "latitude": 8.372513,
+    "longitude": 124.882648,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T12:13:22.610043"
+  },
+  {
+    "ip_address": "192.168.214.195",
+    "isp_provider": "PLDT",
+    "barangay": "Kalugmanan",
+    "latitude": 8.34055,
+    "longitude": 124.861974,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T12:18:24.640492"
+  },
+  {
+    "ip_address": "192.168.32.243",
+    "isp_provider": "PLDT",
+    "barangay": "Tankulan",
+    "latitude": 8.373692,
+    "longitude": 124.884281,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T12:54:58.549938"
+  },
+  {
+    "ip_address": "192.168.175.174",
+    "isp_provider": "Globe Telecom",
+    "barangay": "Dahilayan",
+    "latitude": 8.389859,
+    "longitude": 124.894578,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T14:17:01.821085"
+  },
+  {
+    "ip_address": "192.168.115.96",
+    "isp_provider": "Cablelink",
+    "barangay": "Maluko",
+    "latitude": 8.357518,
+    "longitude": 124.867112,
+    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T14:25:46.663463"
+  },
+  {
+    "ip_address": "192.168.23.5",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Dalirig",
+    "latitude": 8.378323,
+    "longitude": 124.870635,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T18:53:10.227838"
+  },
+  {
+    "ip_address": "192.168.37.92",
+    "isp_provider": "DITO Telecommunity",
+    "barangay": "San Miguel",
+    "latitude": 8.343417,
+    "longitude": 124.852534,
+    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T19:18:15.923618"
+  },
+  {
+    "ip_address": "192.168.97.53",
+    "isp_provider": "PLDT",
+    "barangay": "Lindaban",
+    "latitude": 8.353129,
+    "longitude": 124.865609,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T19:31:33.908783"
+  },
+  {
+    "ip_address": "192.168.243.158",
+    "isp_provider": "Globe Telecom",
+    "barangay": "Kalugmanan",
+    "latitude": 8.34275,
+    "longitude": 124.847223,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T19:39:05.318637"
+  },
+  {
+    "ip_address": "192.168.75.35",
+    "isp_provider": "Sky Broadband",
+    "barangay": "Dalirig",
+    "latitude": 8.383831,
+    "longitude": 124.873476,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-28T20:12:32.114863"
+  },
+  {
+    "ip_address": "192.168.214.4",
+    "isp_provider": "RISE",
+    "barangay": "San Miguel",
+    "latitude": 8.356744,
+    "longitude": 124.848123,
+    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T00:00:06.605571"
+  },
+  {
+    "ip_address": "192.168.167.8",
+    "isp_provider": "Cablelink",
+    "barangay": "San Miguel",
+    "latitude": 8.341004,
+    "longitude": 124.858136,
+    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T00:06:24.368398"
+  },
+  {
+    "ip_address": "192.168.132.24",
+    "isp_provider": "Globe Telecom",
+    "barangay": "Dalirig",
+    "latitude": 8.366554,
+    "longitude": 124.879102,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T00:46:31.446626"
+  },
+  {
+    "ip_address": "192.168.186.125",
+    "isp_provider": "Infinivan",
+    "barangay": "Poblacion",
+    "latitude": 8.363124,
+    "longitude": 124.862414,
+    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T02:45:50.765187"
+  },
+  {
+    "ip_address": "192.168.230.31",
+    "isp_provider": "PLDT",
+    "barangay": "Dalirig",
+    "latitude": 8.378165,
+    "longitude": 124.877438,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T04:29:39.061619"
+  },
+  {
+    "ip_address": "192.168.141.162",
+    "isp_provider": "DITO Telecommunity",
+    "barangay": "Dahilayan",
+    "latitude": 8.380933,
+    "longitude": 124.891061,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T05:36:24.689758"
+  },
+  {
+    "ip_address": "192.168.182.135",
+    "isp_provider": "Asian Vision",
+    "barangay": "Dalirig",
+    "latitude": 8.38133,
+    "longitude": 124.881795,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T06:17:03.946973"
+  },
+  {
+    "ip_address": "192.168.116.202",
+    "isp_provider": "Cablelink",
+    "barangay": "Lindaban",
+    "latitude": 8.358414,
+    "longitude": 124.862827,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T07:59:33.008751"
+  },
+  {
+    "ip_address": "192.168.214.95",
+    "isp_provider": "Air Cable",
+    "barangay": "Dahilayan",
+    "latitude": 8.381671,
+    "longitude": 124.893564,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T10:20:10.551355"
+  },
+  {
+    "ip_address": "192.168.161.91",
+    "isp_provider": "Cablelink",
+    "barangay": "Kalugmanan",
+    "latitude": 8.34464,
+    "longitude": 124.862123,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T11:27:54.799254"
+  },
+  {
+    "ip_address": "192.168.131.50",
+    "isp_provider": "Cablelink",
+    "barangay": "Lindaban",
+    "latitude": 8.354547,
+    "longitude": 124.865676,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T11:43:50.121675"
+  },
+  {
+    "ip_address": "192.168.53.238",
+    "isp_provider": "DITO Telecommunity",
+    "barangay": "Dahilayan",
+    "latitude": 8.385746,
+    "longitude": 124.905497,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T14:43:20.964859"
+  },
+  {
+    "ip_address": "192.168.53.98",
+    "isp_provider": "Eastern Communications",
+    "barangay": "Maluko",
+    "latitude": 8.369749,
+    "longitude": 124.870837,
+    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T16:04:39.965581"
+  },
+  {
+    "ip_address": "192.168.69.60",
+    "isp_provider": "Asian Vision",
+    "barangay": "Dalirig",
+    "latitude": 8.375417,
+    "longitude": 124.869179,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T18:33:30.909566"
+  },
+  {
+    "ip_address": "192.168.238.22",
+    "isp_provider": "DITO Telecommunity",
+    "barangay": "Dahilayan",
+    "latitude": 8.39928,
+    "longitude": 124.907254,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T19:57:29.959063"
+  },
+  {
+    "ip_address": "192.168.210.165",
+    "isp_provider": "Starlink",
+    "barangay": "Lindaban",
+    "latitude": 8.35259,
+    "longitude": 124.867391,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T20:20:40.613666"
+  },
+  {
+    "ip_address": "192.168.143.113",
+    "isp_provider": "Eastern Communications",
+    "barangay": "Kalugmanan",
+    "latitude": 8.338453,
+    "longitude": 124.848404,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-29T23:17:12.701080"
+  },
+  {
+    "ip_address": "192.168.242.15",
+    "isp_provider": "Eastern Communications",
+    "barangay": "Maluko",
+    "latitude": 8.365971,
+    "longitude": 124.876348,
+    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T00:55:16.160039"
+  },
+  {
+    "ip_address": "192.168.242.62",
+    "isp_provider": "Air Cable",
+    "barangay": "Dalirig",
+    "latitude": 8.373208,
+    "longitude": 124.878902,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T02:15:00.632104"
+  },
+  {
+    "ip_address": "192.168.168.83",
+    "isp_provider": "Globe Telecom",
+    "barangay": "San Miguel",
+    "latitude": 8.340589,
+    "longitude": 124.845714,
+    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T02:48:16.354583"
+  },
+  {
+    "ip_address": "192.168.23.94",
+    "isp_provider": "Asian Vision",
+    "barangay": "Lindaban",
+    "latitude": 8.351166,
+    "longitude": 124.867174,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T04:10:55.613589"
+  },
+  {
+    "ip_address": "192.168.164.27",
+    "isp_provider": "Infinivan",
+    "barangay": "Dalirig",
+    "latitude": 8.367969,
+    "longitude": 124.867165,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T05:32:55.973373"
+  },
+  {
+    "ip_address": "192.168.96.186",
+    "isp_provider": "Cablelink",
+    "barangay": "Kalugmanan",
+    "latitude": 8.349304,
+    "longitude": 124.859207,
+    "address": "Kalugmanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T06:18:02.726127"
+  },
+  {
+    "ip_address": "192.168.19.194",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Dahilayan",
+    "latitude": 8.384078,
+    "longitude": 124.897085,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T06:34:41.423276"
+  },
+  {
+    "ip_address": "192.168.149.164",
+    "isp_provider": "RISE",
+    "barangay": "Tankulan",
+    "latitude": 8.379544,
+    "longitude": 124.884667,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T06:38:19.528560"
+  },
+  {
+    "ip_address": "192.168.4.47",
+    "isp_provider": "Cablelink",
+    "barangay": "Poblacion",
+    "latitude": 8.375814,
+    "longitude": 124.866299,
+    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T06:48:33.768606"
+  },
+  {
+    "ip_address": "192.168.177.103",
+    "isp_provider": "RISE",
+    "barangay": "Tankulan",
+    "latitude": 8.377468,
+    "longitude": 124.87025,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T06:51:08.298179"
+  },
+  {
+    "ip_address": "192.168.74.164",
+    "isp_provider": "Eastern Communications",
+    "barangay": "Mambatangan",
+    "latitude": 8.365596,
+    "longitude": 124.885875,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T07:08:17.700130"
+  },
+  {
+    "ip_address": "192.168.243.194",
+    "isp_provider": "Globe Telecom",
+    "barangay": "Maluko",
+    "latitude": 8.368205,
+    "longitude": 124.8684,
+    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T07:41:41.014599"
+  },
+  {
+    "ip_address": "192.168.47.66",
+    "isp_provider": "Converge ICT",
+    "barangay": "San Miguel",
+    "latitude": 8.349315,
+    "longitude": 124.850383,
+    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T08:40:29.133215"
+  },
+  {
+    "ip_address": "192.168.119.190",
+    "isp_provider": "Starlink",
+    "barangay": "Maluko",
+    "latitude": 8.36929,
+    "longitude": 124.87342,
+    "address": "Maluko, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T12:57:43.949258"
+  },
+  {
+    "ip_address": "192.168.132.79",
+    "isp_provider": "Globe Telecom",
+    "barangay": "Dalirig",
+    "latitude": 8.368057,
+    "longitude": 124.865281,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T13:59:07.660684"
+  },
+  {
+    "ip_address": "192.168.17.130",
+    "isp_provider": "Converge ICT",
+    "barangay": "Sankanan",
+    "latitude": 8.383754,
+    "longitude": 124.86708,
+    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T14:01:06.841384"
+  },
+  {
+    "ip_address": "192.168.148.150",
+    "isp_provider": "Asian Vision",
+    "barangay": "Tankulan",
+    "latitude": 8.378847,
+    "longitude": 124.87281,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T17:32:03.613237"
+  },
+  {
+    "ip_address": "192.168.43.23",
+    "isp_provider": "Asian Vision",
+    "barangay": "Poblacion",
+    "latitude": 8.361827,
+    "longitude": 124.866396,
+    "address": "Poblacion, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T19:59:30.708235"
+  },
+  {
+    "ip_address": "192.168.192.145",
+    "isp_provider": "Air Cable",
+    "barangay": "Dahilayan",
+    "latitude": 8.390076,
+    "longitude": 124.897145,
+    "address": "Dahilayan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T21:52:01.773930"
+  },
+  {
+    "ip_address": "192.168.23.157",
+    "isp_provider": "RISE",
+    "barangay": "San Miguel",
+    "latitude": 8.34579,
+    "longitude": 124.843798,
+    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-09-30T22:05:09.777356"
+  },
+  {
+    "ip_address": "192.168.250.159",
+    "isp_provider": "Eastern Communications",
+    "barangay": "Dalirig",
+    "latitude": 8.370513,
+    "longitude": 124.881552,
+    "address": "Dalirig, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-10-01T01:46:04.565977"
+  },
+  {
+    "ip_address": "192.168.145.61",
+    "isp_provider": "Bayan Telecommunications",
+    "barangay": "Tankulan",
+    "latitude": 8.375451,
+    "longitude": 124.885454,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-10-01T01:59:48.777291"
+  },
+  {
+    "ip_address": "192.168.77.61",
+    "isp_provider": "Converge ICT",
+    "barangay": "Sankanan",
+    "latitude": 8.393721,
+    "longitude": 124.863298,
+    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-10-01T03:50:27.554381"
+  },
+  {
+    "ip_address": "192.168.43.3",
+    "isp_provider": "Asian Vision",
+    "barangay": "Mambatangan",
+    "latitude": 8.370794,
+    "longitude": 124.898774,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-10-01T05:31:11.609028"
+  },
+  {
+    "ip_address": "192.168.62.230",
+    "isp_provider": "RISE",
+    "barangay": "Lindaban",
+    "latitude": 8.347991,
+    "longitude": 124.857583,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-10-01T05:49:09.116975"
+  },
+  {
+    "ip_address": "192.168.82.194",
+    "isp_provider": "Cablelink",
+    "barangay": "San Miguel",
+    "latitude": 8.353403,
+    "longitude": 124.847925,
+    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-10-01T06:13:39.098472"
+  },
+  {
+    "ip_address": "192.168.218.153",
+    "isp_provider": "Asian Vision",
+    "barangay": "San Miguel",
+    "latitude": 8.349855,
+    "longitude": 124.84013,
+    "address": "San Miguel, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-10-01T06:53:12.981819"
+  },
+  {
+    "ip_address": "192.168.163.193",
+    "isp_provider": "PLDT",
+    "barangay": "Lindaban",
+    "latitude": 8.352524,
+    "longitude": 124.864502,
+    "address": "Lindaban, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-10-01T09:40:18.709382"
+  },
+  {
+    "ip_address": "192.168.193.175",
+    "isp_provider": "DITO Telecommunity",
+    "barangay": "Tankulan",
+    "latitude": 8.374861,
+    "longitude": 124.887105,
+    "address": "Tankulan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-10-01T10:01:01.184004"
+  },
+  {
+    "ip_address": "192.168.43.201",
+    "isp_provider": "Asian Vision",
+    "barangay": "Mambatangan",
+    "latitude": 8.372805,
+    "longitude": 124.881051,
+    "address": "Mambatangan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-10-01T11:32:52.425033"
+  },
+  {
+    "ip_address": "192.168.2.211",
+    "isp_provider": "PLDT",
+    "barangay": "Sankanan",
+    "latitude": 8.38192,
+    "longitude": 124.872686,
+    "address": "Sankanan, Manolo Fortich, Bukidnon, Philippines",
+    "timestamp": "2025-10-01T12:23:43.892728"
   }
 ]
