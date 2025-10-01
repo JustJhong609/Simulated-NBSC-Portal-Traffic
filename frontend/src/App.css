@@ -1,0 +1,18 @@
+.App {
+  min-height: 100vh;
+}
+
+.map-container {
+  height: 600px;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+}
+
+.stat-card {
+  transition: transform 0.2s;
+}
+
+.stat-card:hover {
+  transform: translateY(-2px);
+}

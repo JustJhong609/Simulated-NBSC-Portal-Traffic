@@ -1,0 +1,4 @@
+# No external dependencies required for basic simulation
+# Optional: Install these for advanced data generation
+# pandas==2.1.4
+# faker==22.0.0
