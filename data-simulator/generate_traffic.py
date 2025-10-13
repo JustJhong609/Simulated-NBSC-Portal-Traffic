@@ -40,6 +40,22 @@ ISP_PROVIDERS = [
     'Bayan Telecommunications'
 ]
 
+# Device Types
+DEVICES = ['Mobile', 'Desktop', 'Tablet']
+DEVICE_WEIGHTS = [0.60, 0.30, 0.10]  # 60% mobile, 30% desktop, 10% tablet
+
+# Browser Types
+BROWSERS = [
+    'Chrome',
+    'Firefox', 
+    'Safari',
+    'Edge',
+    'Opera',
+    'Samsung Internet',
+    'UC Browser'
+]
+BROWSER_WEIGHTS = [0.45, 0.15, 0.20, 0.10, 0.03, 0.05, 0.02]
+
 def generate_random_ip():
     """Generate a random local IP address"""
     return f"192.168.{random.randint(1, 255)}.{random.randint(1, 255)}"
@@ -64,14 +80,29 @@ def generate_traffic_data(num_records=100, days_back=7):
         hours_back = random.random() * days_back * 24
         timestamp = now - timedelta(hours=hours_back)
         
+        # Generate device and browser
+        device = random.choices(DEVICES, weights=DEVICE_WEIGHTS, k=1)[0]
+        browser = random.choices(BROWSERS, weights=BROWSER_WEIGHTS, k=1)[0]
+        
+        # Generate engagement metrics
+        # Session duration: 30 seconds to 30 minutes (in seconds)
+        session_duration = random.randint(30, 1800)
+        
+        # Pages viewed: 1 to 15 pages
+        pages_viewed = random.randint(1, 15)
+        
         record = {
             "ip_address": generate_random_ip(),
             "isp_provider": random.choice(ISP_PROVIDERS),
+            "device": device,
+            "browser": browser,
             "barangay": barangay["name"],
             "latitude": round(lat, 6),
             "longitude": round(lng, 6),
             "address": f"{barangay['name']}, Manolo Fortich, Bukidnon, Philippines",
-            "timestamp": timestamp.isoformat()
+            "timestamp": timestamp.isoformat(),
+            "session_duration": session_duration,
+            "pages_viewed": pages_viewed
         }
         data.append(record)
     
