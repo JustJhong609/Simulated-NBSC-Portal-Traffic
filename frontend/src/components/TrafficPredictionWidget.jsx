@@ -1,6 +1,24 @@
 import { useMemo } from 'react'
 
 const TrafficPredictionWidget = ({ data }) => {
+  // Helper function to calculate variance - MUST be defined before useMemo
+  const calculateVariance = (dataPoints) => {
+    if (dataPoints.length < 2) return 0
+    
+    // Group by hour and calculate variance
+    const hourCounts = {}
+    dataPoints.forEach(item => {
+      const hour = new Date(item.timestamp).getHours()
+      hourCounts[hour] = (hourCounts[hour] || 0) + 1
+    })
+    
+    const counts = Object.values(hourCounts)
+    const mean = counts.reduce((a, b) => a + b, 0) / counts.length
+    const variance = counts.reduce((sum, count) => sum + Math.pow(count - mean, 2), 0) / counts.length
+    
+    return Math.sqrt(variance) / mean // Coefficient of variation
+  }
+
   const prediction = useMemo(() => {
     if (!data.length || data.length < 10) {
       return {
@@ -75,23 +93,6 @@ const TrafficPredictionWidget = ({ data }) => {
       confidence: Math.round(confidence)
     }
   }, [data])
-
-  const calculateVariance = (dataPoints) => {
-    if (dataPoints.length < 2) return 0
-    
-    // Group by hour and calculate variance
-    const hourCounts = {}
-    dataPoints.forEach(item => {
-      const hour = new Date(item.timestamp).getHours()
-      hourCounts[hour] = (hourCounts[hour] || 0) + 1
-    })
-    
-    const counts = Object.values(hourCounts)
-    const mean = counts.reduce((a, b) => a + b, 0) / counts.length
-    const variance = counts.reduce((sum, count) => sum + Math.pow(count - mean, 2), 0) / counts.length
-    
-    return Math.sqrt(variance) / mean // Coefficient of variation
-  }
 
   const getTrendIcon = () => {
     if (prediction.trend === 'increasing') {

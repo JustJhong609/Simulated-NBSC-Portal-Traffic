@@ -20,13 +20,17 @@ ChartJS.register(
 )
 
 const BarangayAnalytics = ({ data }) => {
-  const statistics = useMemo(() => {
+  const { statistics, chartData } = useMemo(() => {
     if (!data.length) return { 
-      total: 0, 
-      barangays: {},
-      topBarangays: []
+      statistics: {
+        total: 0, 
+        barangays: {},
+        topBarangays: []
+      },
+      chartData: { labels: [], datasets: [] }
     }
 
+    // Calculate statistics
     const barangayCounts = {}
     data.forEach(item => {
       barangayCounts[item.barangay] = (barangayCounts[item.barangay] || 0) + 1
@@ -36,25 +40,21 @@ const BarangayAnalytics = ({ data }) => {
       .sort(([, a], [, b]) => b - a)
       .slice(0, 5)
 
-    return {
+    const statistics = {
       total: data.length,
       barangays: barangayCounts,
       topBarangays: topBarangays
     }
-  }, [data])
 
-  const chartData = useMemo(() => {
-    if (!data.length) return { labels: [], datasets: [] }
-
-    // Sort and get top 10
-    const sortedBarangays = Object.entries(statistics.barangays)
+    // Calculate chart data
+    const sortedBarangays = Object.entries(barangayCounts)
       .sort(([, a], [, b]) => b - a)
       .slice(0, 10)
 
     const labels = sortedBarangays.map(([barangay]) => barangay)
     const values = sortedBarangays.map(([, count]) => count)
 
-    return {
+    const chartData = {
       labels,
       datasets: [
         {
@@ -66,7 +66,9 @@ const BarangayAnalytics = ({ data }) => {
         },
       ],
     }
-  }, [data, statistics.barangays])
+
+    return { statistics, chartData }
+  }, [data])
 
   const options = {
     responsive: true,
