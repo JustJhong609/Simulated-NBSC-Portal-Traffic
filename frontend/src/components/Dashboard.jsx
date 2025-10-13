@@ -3,6 +3,11 @@ import MapView from './MapView'
 import StatisticsPanel from './StatisticsPanel'
 import TimeFilter from './TimeFilter'
 import BarangayAnalytics from './BarangayAnalytics'
+import VisitorsOverTimeChart from './VisitorsOverTimeChart'
+import DevicePlatformBreakdown from './DevicePlatformBreakdown'
+import EngagementMetrics from './EngagementMetrics'
+import TrafficPredictionWidget from './TrafficPredictionWidget'
+import HeatmapLegend from './HeatmapLegend'
 import axios from 'axios'
 
 const Dashboard = () => {
@@ -189,14 +194,37 @@ const Dashboard = () => {
       {/* Statistics */}
       <StatisticsPanel data={filteredData} allData={trafficData} />
 
+      {/* Engagement Metrics */}
+      <EngagementMetrics data={filteredData} />
+
+      {/* Traffic Prediction & Visitors Over Time */}
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+        <div className="lg:col-span-1">
+          <TrafficPredictionWidget data={trafficData} />
+        </div>
+        <div className="lg:col-span-2">
+          <VisitorsOverTimeChart data={filteredData} />
+        </div>
+      </div>
+
       {/* Barangay Analytics - Bar Chart and Top 5 List */}
       <BarangayAnalytics data={filteredData} />
 
-      {/* Map */}
-      <div className="bg-white p-4 rounded-lg shadow">
-        <h2 className="text-xl font-semibold mb-4 text-gray-800">Traffic Map</h2>
-        <div className="map-container">
-          <MapView data={filteredData} showHeatmap={showHeatmap} showMarkers={showMarkers} />
+      {/* Device & Platform Breakdown */}
+      <DevicePlatformBreakdown data={filteredData} />
+
+      {/* Map with Legend */}
+      <div className="grid grid-cols-1 lg:grid-cols-4 gap-6">
+        <div className="lg:col-span-3">
+          <div className="bg-white p-4 rounded-lg shadow">
+            <h2 className="text-xl font-semibold mb-4 text-gray-800">Traffic Map</h2>
+            <div className="map-container">
+              <MapView data={filteredData} showHeatmap={showHeatmap} showMarkers={showMarkers} />
+            </div>
+          </div>
+        </div>
+        <div className="lg:col-span-1">
+          {showHeatmap && <HeatmapLegend />}
         </div>
       </div>
     </div>
